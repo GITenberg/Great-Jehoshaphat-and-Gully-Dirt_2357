@@ -1,0 +1,22 @@
+_repo: Great-Jehoshaphat-and-Gully-Dirt_2357
+creator:
+  author:
+    agent_name: Smith, Jewell Ellen
+    birthdate: 1915
+    deathdate: 1998
+    gutenberg_agent_id: '874'
+    url: http://www.gutenberg.org/2009/agents/874
+description: ''
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2357'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+title: Great Jehoshaphat and Gully Dirt!
+url: http://www.gutenberg.org/ebooks/2357
